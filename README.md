@@ -1,6 +1,8 @@
 # Road-Lane-Detection
 _**Road Lane Detection Project using Python and OpenCV**_
 
+_**Description:**_
+
 Lane detection is the process of identifying the lane boundaries on the road. It is an essential task for autonomous driving systems and driver assistance systems.
 These systems use computer vision algorithms to detect lane markings and determine the vehicle’s position relative to the lane boundaries.
 

@@ -19,7 +19,7 @@ _**Techiniques Used:**_
 1. Gray Scale Conversion
 2. Gaussian Blur
 3. Edge Detection
-4. Hough Transform:
+4. Hough Transform
 5. Region Of Interest
 
 _**Flow Chart:**_

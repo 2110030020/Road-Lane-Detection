@@ -1,5 +1,5 @@
 # Road-Lane-Detection
-_**Road Lane Detection Project using Python and OpenCV**_
+_**The objective of the Road Lane Detection Project is to accurately identify and delineate lane boundaries on the road. This task is crucial for a variety of applications related to road navigation and driving safety. The project is implemented using Python programming language in conjunction with the OpenCV computer vision library.**_
 
 _**Description:**_
 

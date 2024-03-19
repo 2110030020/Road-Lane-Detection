@@ -27,3 +27,7 @@ _**Flow Chart:**_
 The below is the flow chart showing the steps involved in Road Lane Detection using Open CV and Python:
 
 ![image](https://github.com/2110030020/Road-Lane-Detection/assets/110022497/23e33204-7206-495c-a3dc-d6c84ca0f0cb)
+
+_**Output Video:**_
+
+https://www.linkedin.com/posts/chitta-sri-chandana_artificialintelligence-opencv-python-activity-7113570258593976320-m59y?utm_source=share&utm_medium=member_desktop
